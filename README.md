@@ -4,7 +4,7 @@
 
 
 ## Hola People
-##How are you?
+## I hope you all are ready for learning Web Development. So let's get started 
 
 ### This is a Basic web tutorial 
 Links To learn we development
