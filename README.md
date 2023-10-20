@@ -12,5 +12,8 @@ https://www.geeksforgeeks.org/can-start-learn-web-development/
 
 ### web development
 # html
+Resources to get started with HTML:
+https://www.w3schools.com/html/
+https://www.codecademy.com/learn/learn-html
 # css
 
